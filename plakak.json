@@ -1,36 +1,76 @@
-[
-
 {
-    "firstname": "asyong",
-    "middlename": "privato",
-    "lastname": "jabonnga",
-    "email": "asyongjabonnga@gmail.com",
-    "age": 88,
-    "active": true,
-    "profileImage": "./assets/profileimages/denver.jpg",
-    "defaultimages": "./assets/profileimages/default.jpg",
-    "friends":["chatgpt" , "google" , " gmail", "facebook"]
-},{
-    "firstname": "modtakels",
-    "middlename": "modta",
-    "lastname": "mutakels",
-    "email": "modtakelsmutakels@gmail.com",
-    "age": 98,
-    "active": true,
-    "profileImage": "",
-    "defaultimages": "./assets/profileimages/default.jpg",
-    "friends":["colorgame" , "majong" , "pusoy", "protpat"]
+    "title": "User Profiles",
+    "profiles": [
+      {
+        "firstname": "asyong",
+        "middlename": "privato",
+        "lastname": "jabonnga",
+        "email": "asyongjabonnga@gmail.com",
+        "age": 88,
+        "active": true,
+        "profileImage": "./assets/profileimages/denver.jpg",
+        "defaultimages": "./assets/profileimages/default.jpg",
+        "friends": ["chatgpt", "google", "gmail", "facebook"]
+      },
+      {
+        "firstname": "modtakels",
+        "middlename": "modta",
+        "lastname": "mutakels",
+        "email": "modtakelsmutakels@gmail.com",
+        "age": 98,
+        "active": true,
+        "profileImage": "",
+        "defaultimages": "./assets/profileimages/default.jpg",
+        "friends": ["colorgame", "majong", "pusoy", "protpat"]
+      },
+      {
+        "firstname": "semay",
+        "middlename": "sobku",
+        "lastname": "lokbu",
+        "email": "semaylokbu@gmail.com",
+        "age": 64,
+        "active": false,
+        "profileImage": "",
+        "defaultimages": "./assets/profileimages/default.jpg",
+        "friends": ["intel", "amd", "apol", "samsong"]
+      }
+    ],
 
-},{
-    "firstname": "semay",
-    "middlename": "sobku",
-    "lastname": "lokbu",
-    "email": "semaylokbu@gmail.com",
-    "age": 64,
-    "active": false,
-    "profileImage": "",
-    "defaultimages": "./assets/profileimages/default.jpg",
-    "friends":["intel" , "amd" , "apol", "samsong"]
-}
-
-]
+    "gcash": "User Profiles",
+    "accounts": [
+      {
+        "firstname": "casg g",
+        "middlename": "privato",
+        "lastname": "jabonnga",
+        "email": "asyongjabonnga@gmail.com",
+        "age": 88,
+        "active": true,
+        "profileImage": "./assets/profileimages/denver.jpg",
+        "defaultimages": "./assets/profileimages/default.jpg",
+        "friends": ["chatgpt", "google", "gmail", "facebook"]
+      },
+      {
+        "firstname": "modtakels",
+        "middlename": "modta",
+        "lastname": "mutakels",
+        "email": "modtakelsmutakels@gmail.com",
+        "age": 98,
+        "active": true,
+        "profileImage": "",
+        "defaultimages": "./assets/profileimages/default.jpg",
+        "friends": ["colorgame", "majong", "pusoy", "protpat"]
+      },
+      {
+        "firstname": "semay",
+        "middlename": "sobku",
+        "lastname": "lokbu",
+        "email": "semaylokbu@gmail.com",
+        "age": 64,
+        "active": false,
+        "profileImage": "",
+        "defaultimages": "./assets/profileimages/default.jpg",
+        "friends": ["intel", "amd", "apol", "samsong"]
+      }
+    ]
+  }
+  
